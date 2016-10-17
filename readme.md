@@ -4,4 +4,4 @@
 
 written in Visual Basic 6.0. 
 
-please refer to [this webpage](http://200404.sinaapp.com/2015/02/complete-id/)(Chinese Simplified).
+please refer to [this webpage](http://blog.nullspace.cn/2015/02/complete-id/)(Chinese Simplified).
